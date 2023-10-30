@@ -1,0 +1,28 @@
+Use uma chamada de serviço da web REST para recuperar a mensagem XML. Use este URI: http://rpademo.automationanywhere.com/webservices/names.xml
+Valide o XML e certifique-se de que está bem formado. Se o XML não estiver bem formado, saia da tarefa.
+Analise a mensagem XML. Use as ações If para extrair apenas os registros em que 
+
+StartDate seja posterior a 2017 (não inclua 2017) , 
+o gênero seja feminino 
+e o país seja o Canadá
+Os dados gravados em EmployeeData.xlsx não devem ter espaços extras nas células do Excel.
+
+
+Grave os dados extraídos no arquivo EmployeeData.xlsx baixado da guia Referências adicionais em Automation Anywhere Certified Master RPA Professional (A2019) .
+
+Copie o arquivo EmployeeData.xlsx para seu endereço de email_Bot_1_Output.xlsx .
+Use apenas os pacotes listados no conteúdo da paleta Actions para a página de criação de bot . O uso de pacotes personalizados afetará sua nota.
+
+Não use os seguintes pacotes ao construir seu bot.
+
+Tabela de dados
+Base de dados
+Nota importante
+
+Não modifique manualmente o arquivo Excel de saída ou a listagem de automação de texto. Seus bots serão avaliados usando um sistema automatizado e edições ou modificações estranhas irão desqualificar seu envio.
+
+Leia as instruções para o documento de envio do bot antes de enviar os arquivos do bot. Por exemplo, se você optar por enviar um arquivo CSV em vez de um arquivo Excel, seu envio será marcado como inválido.
+
+Todos os documentos relevantes estão disponíveis na guia Referências adicionais em  Automation Anywhere Certified Master RPA Professional (A2019) .
+
+Boa sorte e vai ser ótimo!

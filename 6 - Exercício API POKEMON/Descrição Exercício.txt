@@ -1,0 +1,4 @@
+- Acessar a API Pokemon: https://pokeapi.co/
+- Abrir a planilha "Pokemons.xlsx"
+- Buscar os dados de cada Pokemon na API
+- Preencher na planilha
