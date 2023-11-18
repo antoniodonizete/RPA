@@ -52,7 +52,7 @@ with open('Orders.csv', 'r') as arquivo:
             pyautogui.write(line[3])
             pyautogui.press('tab')
             pyautogui.press('enter')
-            time.sleep(1)
+            time.sleep(20)
             pyautogui.press('enter')
             print('linhaaa:', line[0], line[1])
             pyautogui.press('enter')
